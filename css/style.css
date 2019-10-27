@@ -7,16 +7,16 @@ body {
 }
 
 h1 {
-  color: #E8A797;
+  color: white;
   font-size: 18pt;
 }
 
 h2 {
-  color: lightpink;
+  color: white;
 }
 
 h3 {
-  Color: lightpink;
+  Color: white;
 }
 
 p {
@@ -31,4 +31,59 @@ a {
 
 a:hover {
   background-color: yellow;
+}
+
+#one {
+background-color: lightyellow;
+margin-top: 50px;
+margin-bottom: 50px;
+}
+
+#two {
+background-color: white;
+float: top
+margin-top: 50px;
+margin-bottom: 50px;
+}
+
+#three {
+background-color: pink;
+float: top;
+margin-top: 100px;
+margin-bottom: 200px;
+}
+
+#four {
+background-color: pink;
+float: top;
+margin-top: 200px;
+margin-bottom: 200px;
+}
+
+#five {
+background-color: pink;
+float: top;
+margin-top: 200px;
+margin-bottom: 50px;
+}
+
+#six {
+background-color: white;
+float: top;
+margin-top: 200px;
+margin-bottom: 200px;
+}
+
+#seven {
+background-color: white;
+float: top;
+margin-top: 300px;
+margin-bottom: 300px;
+}
+
+
+
+
+.red-text {
+  color: red;
 }
